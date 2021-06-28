@@ -1,0 +1,18 @@
+body{
+    background-color: deeppink;
+}
+div{
+    margin-top: 15px;
+}
+.img-sec{
+    display: flex;
+    justify-content: center;
+}
+.sec-style{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
